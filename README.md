@@ -3,7 +3,7 @@
 
 💻 Desenvolvedora Front-End, amante de tecnologia, apaixonada por aprender coisas novas e estou sempre buscando me atualizar.
 
-🎓 Estudante do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em formação Full-Stack
+🎓 Aluna do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em formação Full-Stack
 
 📧 Email: carolinadecubas@hotmail.com
 <b>
