@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt= "github-logo"/>
 <br>
 <br>
-<h3>Stats:</h3>
+<h3>:bar_chart: Stats:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinacubass&show_icons=true&theme=radical)
 <br>
