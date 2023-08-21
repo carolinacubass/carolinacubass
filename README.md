@@ -25,8 +25,8 @@
 <br>
 <h3>Stats:</h3>
 
-[![Carolina's Stats](https://github-readme-stats.vercel.app/api?username=carolinacubass)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinacubass&show_icons=true&theme=radical)
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacubass)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacubass&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
