@@ -1,5 +1,5 @@
 ### Hello There! I'm Carolina Cubas 👋
-🚀 Sou a Carolina, mas pode me chamar de Carol, tenho 28 anos, natural de Goiânia, Goiás. Sou extrovertida, gosto muito de conversar e fazer novas amizades, sintam-se livres para conversar comigo sempre que quiserem!
+🚀 Sou a Carolina, mas podem me chamar de Carol, tenho 28 anos, natural de Goiânia, Goiás. Sou extrovertida, gosto muito de conversar e fazer novas amizades, sintam-se livres para conversar comigo sempre que quiserem!
 
 💻 Desenvolvedora Front-End, amante de tecnologia, apaixonada por aprender coisas novas e estou sempre buscando me atualizar.
 
