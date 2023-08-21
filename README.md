@@ -1,9 +1,9 @@
 ### Hello There! I'm Carolina Cubas 👋
-🚀 Sou a Carolina, mas podem me chamar de Carol, tenho 28 anos, natural de Goiânia, Goiás. Sou extrovertida, gosto muito de conversar e fazer novas amizades, sintam-se livres para conversar comigo sempre que quiserem!
+💻🚀 Sou a Carolina, mas podem me chamar de Carol. Desenvolvedora Front-End, amante de tecnologia, apaixonada por aprender coisas novas e estou sempre buscando me atualizar.
 
-💻 Desenvolvedora Front-End, amante de tecnologia, apaixonada por aprender coisas novas e estou sempre buscando me atualizar.
+:books:🎓 Aluna do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em formação Full-Stack.
 
-🎓 Aluna do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em formação Full-Stack
+:smiley: Tenho 28 anos, natural de Goiânia, Goiás. Sou extrovertida, comunicativa e estou sempre disposta à ajudar. Gosto muito de conversar e fazer novas amizades, sintam-se livres para conversar comigo sempre que quiserem, inclusive em inglês também.
 
 📧 Email: carolinadecubas@hotmail.com
 <b>
