@@ -5,6 +5,8 @@
 
 :smiley: Tenho 28 anos, natural de Goiânia, Goiás. Sou extrovertida, comunicativa e estou sempre disposta à ajudar. Gosto muito de conversar e fazer novas amizades, sintam-se livres para conversar comigo sempre que quiserem, inclusive em inglês também.
 
+:game_die: No meu tmepo livre, eu gosto de assistir Formula 1 e Futebol, ouvir música, reunir os amigos para jogos de tabuleiro e/ou RPG, jogos eletrônicos, assistir filmes de séries, ler quadrinhos, frequentar cafeterias e pubs.
+
 📧 Email: carolinadecubas@hotmail.com
 <b>
 <h3>:earth_americas: Me encontre:</h3>
