@@ -3,7 +3,7 @@
 
 :books:🎓 Aluna do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em formação Full-Stack, utilizando as tecnologias e ferramentas: HTML, CSS, JavaScript, REACT, REACT Native e Node.js. Também estudo Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
 
-:smiley: Tenho 28 anos, natural de Goiânia, Goiás. Sou extrovertida, comunicativa e estou sempre disposta à ajudar. Gosto muito de conversar e fazer novas amizades, sintam-se livres para conversar comigo sempre que quiserem, inclusive em inglês também.
+:smiley: Tenho 29 anos, natural de Goiânia, Goiás. Sou extrovertida, comunicativa e estou sempre disposta à ajudar. Gosto muito de conversar e fazer novas amizades, sintam-se livres para conversar comigo sempre que quiserem, inclusive em inglês também.
 
 :game_die: No meu tempo livre, gosto de assistir Formula 1 e futebol, ouvir música, reunir os amigos para jogos de tabuleiro e/ou RPG, jogos eletrônicos, assistir filmes e séries, ler histórias em quadrinhos, frequentar cafeterias, hamburguerias e pubs.
 
