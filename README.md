@@ -1,9 +1,11 @@
 ### Hello, There! I'm Carolina Cubas 👋
-💻🚀 Sou a Carolina, mas podem me chamar de Carol. Desenvolvedora Front-End, amante da tecnologia, apaixonada por aprender coisas novas e estou sempre buscando me atualizar.
+💻🚀 Sou a Carolina, mas podem me chamar de Carol. Desenvolvedora Front-end, amante da tecnologia, apaixonada por aprender coisas novas e estou sempre buscando me atualizar.
 
-:books:🎓 Aluna do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em formação Full-Stack, utilizando as tecnologias e ferramentas: HTML, CSS, JavaScript, REACT, REACT Native e Node.js. Também estudo Análise e Desenvolvimento de Sistemas na Unifatecie.
+:computer::iphone: Faço estágio na Vilesoft, com foco em desenvolvimento Front-end/Mobile utilizando React Native e TypeScript. Algumas de minhas tarefas são: 
 
-:smiley: Tenho 30 anos, natural de Goiânia, Goiás. Sou extrovertida, comunicativa e estou sempre disposta à ajudar. Gosto muito de conversar e fazer novas amizades, sintam-se livres para conversar comigo sempre que quiserem, inclusive em inglês também.
+:books:🎓 Aluna do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em formação Full-Stack, utilizando as tecnologias e ferramentas: HTML, CSS, JavaScript, REACT, REACT Native e Node.js. Graduanda de Análise e Desenvolvimento de Sistemas pela Unifatecie.
+
+:smiley: Tenho 30 anos, natural de Goiânia - Goiás. Sou extrovertida, comunicativa e estou sempre disposta à ajudar. Gosto muito de conversar e fazer novas amizades, sintam-se livres para conversar comigo sempre que quiserem, inclusive em inglês também.
 
 📧 Email: carolinadecubas@hotmail.com
 <b>
