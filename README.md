@@ -1,7 +1,7 @@
 ### Hello, There! I'm Carolina Cubas 👋
 💻🚀 Sou a Carolina, mas podem me chamar de Carol. Desenvolvedora Front-end, amante da tecnologia, apaixonada por aprender coisas novas e estou sempre buscando me atualizar.
 
-:computer::iphone: Faço estágio na Vilesoft, com foco em desenvolvimento Front-end/Mobile utilizando React Native e TypeScript. Algumas de minhas tarefas são: 
+:computer::iphone: Faço estágio na Vilesoft, com foco em desenvolvimento Front-end/Mobile utilizando React Native e TypeScript. Algumas de minhas tarefas são: Atuar no desenvolvimento de aplicações móveis utilizando React Native, colaborando com a equipe técnica na implementação de interfaces e funcionalidades; Suporte na correção de bugs, testes em dispositivos e melhoria contínua dos aplicativos e Contato com integração de APIs, controle de versão com Git e aplicação de boas práticas de desenvolvimento.
 
 :books:🎓 Aluna do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em formação Full-Stack, utilizando as tecnologias e ferramentas: HTML, CSS, JavaScript, REACT, REACT Native e Node.js. Graduanda de Análise e Desenvolvimento de Sistemas pela Unifatecie.
 
